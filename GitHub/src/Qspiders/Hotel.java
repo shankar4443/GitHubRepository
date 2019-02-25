@@ -1,4 +1,6 @@
-public class Hotel{
-public void dosa(){
-{
-}
+//public class Hotel{
+//public void dosa(){
+	
+//}
+//{
+//}
